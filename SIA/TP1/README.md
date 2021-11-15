@@ -2,7 +2,7 @@
 
 TP1 is an introduction to Deep Learning and Deep Learning Frameworks
 
-The labs is divided into two parts. You will create and train a model to perform Classification on two different Deep Learning Framework :
+The labs is divided into two parts. You will create and train a model that performs Classification on two different Deep Learning Framework :
 
 * PyTorch by Facebook
 * Tensorflow by Google
