@@ -16,11 +16,11 @@ The objective :
 
 In this lab, you will be asked to train a Deep Learning model that performs Classification on MNIST using Lightning.
 
-## TP2 : AutoEncoder (Part 2)
+## TP1 : AutoEncoder (Part 2)
 
 In this lab, you will be asked to train an AutoEncoder model
 
-## TP3 : Image Colorization
+## TP2 : Image Colorization
 
 In this lab, you will be asked to train a cGAN that performs image colorization
 
