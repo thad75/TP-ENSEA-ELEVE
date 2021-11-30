@@ -1,6 +1,6 @@
 ## TP2
 
-TP1 is an introduction to Generative Models using Pytorch Lightning
+TP2 is an introduction to Generative Models using Pytorch Lightning
 
 The labs is divided into three parts. You will create and train a model that performs Classification, Creation and Colorization using PyTorch Lightning :
 
