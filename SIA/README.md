@@ -10,7 +10,7 @@ All the labs are in Pytorch except the first one. However, feel free to use any 
 * [TP1 : Introduction and Classification](./TP1)
 * [TP2 : Generative Models](./TP2)
 * [TP3 : Sequential Models ](./TP3)
-* [TP4 : Engineer Style](./TP4)
+* [TP4 : Welcome to the Real World](./TP4)
 
 ## TP1 : Introduction and Classification
 
