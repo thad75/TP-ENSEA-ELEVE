@@ -1,7 +1,7 @@
 ## TP4 : Welcome to the Real World
 
 TP4 is the final lab as a Deep Learning Student. 
-This lab is an interview style question. You will be given a Dataset and a Task to perform. You will be ask to give a solution for the given problem.
+This lab is an interview style question. You will be given a Dataset and a Task to perform. You will be asked to give a solution for the given problem.
 You must only use Deep Models (and no ML technics) as main algorithms. 
 
 **⚠️⚠️Multiple subjects are available but only one will be assigned to you⚠️⚠️**
