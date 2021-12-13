@@ -24,7 +24,7 @@ TP2 is an introduction to generative models
 
 TP3 is an introduction to sequential model learning
 
-## TP4 : Engineer Style 
+## TP4 : Welcome to the Real World 
 
 TP4 is an interview type question. You'll be given a dataset and asked to create and train a model for a certain task
 
