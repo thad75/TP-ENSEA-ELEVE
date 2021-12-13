@@ -4,6 +4,10 @@ TP4 is the final lab as a Deep Learning Student.
 This lab is an interview style question. You will be given a Dataset and a Task to perform. You will be asked to give a solution for the given problem.
 You must only use Deep Models (and no ML technics) as main algorithms. 
 
+Don't forget to save a copy of your Notebook in your personnal Drive
+
+
+
 **⚠️⚠️Multiple subjects are available but only one will be assigned to you⚠️⚠️**
 
 **You are absolutely free of all your doings. No code will be given to you.**
