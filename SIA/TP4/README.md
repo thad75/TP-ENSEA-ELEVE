@@ -1,6 +1,6 @@
 ## TP4
 
-TP4 is a test for you as a Future Deep Learning Engineer. 
+TP4 is the final lab as a Deep Learning Student. 
 This lab is an interview style question. You will be given a Dataset and a Task to perform. You will be ask to give a solution for the given problem.
 You must only use Deep Models (and no ML technics) as main algorithms. 
 
@@ -16,7 +16,7 @@ The objective :
 * Learn to work as a DL Engineer
 * Google things
 * Exploit your results
-* Check if you really understood something in this DL class.
+* Check if you really understood something in this DL class/lab.
 
 You'll be only given a Real Condition task. If you need some guiding:
 * Discuss with your team members
