@@ -1,4 +1,4 @@
-## TP4
+## TP4 : Welcome to the Real World
 
 TP4 is the final lab as a Deep Learning Student. 
 This lab is an interview style question. You will be given a Dataset and a Task to perform. You will be ask to give a solution for the given problem.
@@ -18,7 +18,7 @@ The objective :
 * Exploit your results
 * Check if you really understood something in this DL class/lab.
 
-You'll be only given a Real Condition task. If you need some guiding:
+You'll be given one Real Condition task. If you need some guiding:
 * Discuss with your team members
 * Google things and make sure you understand them
 * And finally ask me.
@@ -39,6 +39,8 @@ In this lab, you will be asked to train a Deep Learning model to recreate the Go
 
 In this lab, you will be asked to train a Deep Learning model to spot tumours from Brain MRIs.
 
+
+
 We will note you on the following things : 
 * Your understanding of the subject and the dataset.
 * The reasons you used a particular architecture.
@@ -48,3 +50,5 @@ We will note you on the following things :
 **⚠️⚠️ Any unjustified result or move will not be taken into consideration ⚠️⚠️**
 
 **⚠️⚠️Don't begin any notebook before your lab. We will assign you a lab at the beginning of the lab session. ⚠️⚠️**
+
+Good Luck :)
