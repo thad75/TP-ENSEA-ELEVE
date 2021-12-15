@@ -51,7 +51,7 @@ We will note you on the following things :
 * How you design your loss and your Dataset.
 * The results you're getting and your analysis of them.
 
-**⚠️⚠️ Any unjustified result or move will not be taken into consideration ⚠️⚠️**
+**⚠️⚠️ Any unjustified result or move will not be taken into consideration and penalized in your notation⚠️⚠️**
 
 **⚠️⚠️Don't begin any notebook before your lab. We will assign you a lab at the beginning of the lab session. ⚠️⚠️**
 
