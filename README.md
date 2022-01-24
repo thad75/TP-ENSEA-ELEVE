@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [SIA](.3A/SIA)
-* [TP IA](.2A/TPIA)
+* [SIA](3A/SIA)
+* [TP IA](2A/TPIA)
 
 ## SIA
 
