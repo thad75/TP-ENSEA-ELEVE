@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
-* [SIA](./SIA)
-* [Majeure Signal](./MajeureSignal)
+* [SIA](.3A/SIA)
+* [TP IA](.2A/TPIA)
 
 ## SIA
 
 Here you will find the Lab given to the SIA
 
-## Majeure Signal
+## TP IA
 
-Here you will find the lab given to the Majeure Signal
+Here you will find the lab given to the IA Option for 2a
 
 ## How to 
 
