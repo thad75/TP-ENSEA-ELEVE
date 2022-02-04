@@ -3,8 +3,8 @@
 ## Table of Contents
 
 * [SIA](3A/SIA)
-* [TP IA](2A/OptionIA)
-* [Majeur Signal](2A/MajeureSignal)
+* [TP IA](2A/Option%20IA)
+* [Majeur Signal](2A/Majeure%20Signal)
 
 ## SIA
 
