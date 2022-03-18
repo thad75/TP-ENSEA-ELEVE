@@ -7,7 +7,7 @@ The lab uses Pytorch.
 
 
 ## Table of contents
-* [Image Compression Using AutoEncoders]
+* Image Compression Using AutoEncoders
 
 ## TP : Image Compression using AutoEncoders: a deep learning task
 
