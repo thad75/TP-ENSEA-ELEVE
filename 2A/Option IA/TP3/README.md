@@ -1,19 +1,20 @@
-# TP ENSEA Eleve
+# TP Recommendation System
 
-## Table of Contents
+## Goal of this Lab
 
-* [SIA](3A/SIA)
-* [TP IA](2A/Option%20IA)
-* [Majeur Signal](2A/Majeure%20Signal)
+* Understand the Recommendation Systems
+* Create two different models that performs the same task
 
-## SIA
+This lab is divided into 3 parts
 
-Here you will find the Lab given to the SIA
+## Matrix Factorization
 
-## TP IA
+In this part, you will perform recommendation using MF
 
-Here you will find the lab given to the IA Option for 2a
+## NGCF
 
-## How to 
+In this part, you will perform recommendation using NGCF
 
-The labs are written into Notebooks. You can open the notebooks using Open to Colab button. Don't forget to enable the GPU on Google Colaboratory and to save the notebooks into your personal Google Drive.
+## Do it Again
+
+In this part, you will perform recommendation using your imagination
