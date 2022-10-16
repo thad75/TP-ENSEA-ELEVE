@@ -2,26 +2,16 @@
 
 TP1 is an introduction to Deep Learning and the most used Deep Learning Frameworks
 
-The labs is divided into two parts. You will create and train a model that performs Classification on two different Deep Learning Framework :
+The labs is divided into two parts. You will create and train a model that performs Classification on two different Datasets :
 
-* PyTorch by Facebook
-* Tensorflow by Google
+* MNIST
+* CIFAR-10
 
 The objective :
-* Learn to use Tensorflow and Pytorch
-* Define your training/testing loop
-* Choose your loss
-* Train your first(?) model 🥲
+* Learn to use Pytorch and Pytorch Lightning
+* Use Trainers
+* Fine-Tune a Model
 
+## TP : Introduction to Pytorch Lightning
 
-## TP1 : Pokemon Classification (Part 1)
-
-In this lab, you will be asked to train a Deep Learning model that performs Binary Classification on Pikachu and Jigglypuff and Raichu.
-
-
-## TP1 : CIFAR10 Classification (Part 2)
-
-In this lab, you will be asked to train a Deep Learning model that performs Multi class Classification on the CIFAR10 Dataset
-
-
-
+In this lab, you will be asked to train a Deep Learning model that performs Classification.
