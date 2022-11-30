@@ -17,4 +17,4 @@ This folder contains every labs given to 2nd year ENSEA students
 
 ## How to 
 
-The labs are written into Notebooks. You can open the notebooks using Open to Colab button. Don't forget to enable the GPU on Google Colaboratory and to save the notebooks into your personal Google Drive.
+You won't need anything but Google Colab to do the labs. The labs are written into Notebooks. You can open the notebooks using Open to Colab button. Don't forget to enable the GPU on Google Colaboratory and save he notebooks into your personal Google Drive.
