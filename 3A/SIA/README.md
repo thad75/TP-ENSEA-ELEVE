@@ -7,27 +7,36 @@ All the labs are in Pytorch except the first one. However, feel free to use any 
 
 
 ## Table of contents
-* [TP1 : Introduction and Classification](./TP1)
-* [TP2 : Generative Models](./TP2)
-* [TP3 : Sequential Models ](./TP3)
-* [TP4 : Welcome to the Real World](./TP4)
+* [TDm : Introduction to Deep Learning and Pytorch ](./TP%202021%202022/TDm)
+* [TP1 : Introduction to Pytorch Lightning](./TP%202021%202022/TP1)
+* [TP2 : Generative Models](./TP%202021%202022/TP2)
+* [TP3 : Self Supervised Learning ](./TP%202021%202022/TP3)
+* [TP4 : Attention in Finance](./TP%202021%202022/TP4)
+
+## TDm : Introduction to Deep Learning and Pytorch
+
+In this lab, we introduce the PyTorch framework for Deep Learning.
 
 ## TP1 : Introduction and Classification
 
-TP1 is an introduction to Deep Learning, Pytorch and Tensorflow. You will use CIFAR-10 Dataset and a Pokemon Dataset to train a model for Classification
+TP1 is an introduction to Classification using Pytorch Lightning. 
 
 ## TP2 : Generative Models
 
-TP2 is an introduction to generative models
+TP2 is an introduction to Generative Models
 
-## TP3 : Sequential Models 
+## TP3 : Self Supervised Learning
 
-TP3 is an introduction to sequential model learning
+TP3 is an introduction to Self Supervised Learning
 
-## TP4 : Welcome to the Real World 
+## TP4 : Attention in Finance
 
-TP4 is an interview type question. You'll be given a dataset and asked to create and train a model for a certain task
+TP4 is an introduction to the Transformer Model for Finance
 
+
+### TP 2020 2021
+
+You can also find the previous labs given to the ENSEA students in the TP 2020 2021 folder
 
 ### Fork
 
@@ -39,12 +48,3 @@ You will need to return :
 * The lab notebook completely filled
 * Slides summing up the lab
 
-### How we note : 
-
-* 10 points for the notebook
-* 5 points for the slides
-* 5 points for the Oral Presentation
-
-The oral presentation is a 5 min maximum presentation where you'll be presenting the previous lab and the results.
-
-Good Luck

@@ -1,18 +1,19 @@
-# TP ENSEA Eleve
+# TP AI ENSEA 
 
+This repository contains each AI Labs given to ENSEA Engineering Students following the Deep Learning Course.
 ## Table of Contents
 
 * [SIA](3A/SIA)
 * [TP IA](2A/Option%20IA)
 * [Majeur Signal](2A/Majeure%20Signal)
 
-## SIA
+## 3A
 
-Here you will find the Lab given to the SIA
+This folder contains every labs given to 3rd year SIA students. 
 
-## TP IA
+## 2A
 
-Here you will find the lab given to the IA Option for 2a
+This folder contains every labs given to 2nd year ENSEA students  
 
 ## How to 
 
