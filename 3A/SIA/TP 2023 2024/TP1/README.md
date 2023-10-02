@@ -4,7 +4,7 @@ TP1 is an introduction to Deep Learning and the most used Deep Learning Framewor
 
 The labs is divided into two parts. You will create and train a model that performs Classification on two different Datasets :
 
-* MNIST
+* FashionMNIST
 * CIFAR-10
 
 The objective :
