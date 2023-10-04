@@ -1,4 +1,11 @@
-# TP AI ENSEA 
+<h1   align="center">
+TP ENSEA Deep Learning
+</h1>
+
+<div id="badges" align="center">
+  <img src="https://img.shields.io/github/license/thad75/OptionAI"  alt="License Badge"/>
+  <img src="https://img.shields.io/github/languages/top/thad75/OptionAI" alt="Python Badge"/>
+</div> 
 
 This repository contains each AI Labs given to ENSEA Engineering Students following the Deep Learning Course.
 ## Table of Contents
