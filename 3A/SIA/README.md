@@ -32,7 +32,8 @@ TP3 is an introduction to Self Supervised Learning
 ## TP4 : Attention in Finance
 
 TP4 is an introduction to the Transformer Model for Finance
-Slides : https://enseafr-my.sharepoint.com/:p:/g/personal/tharsan_senthivel_ensea_fr/EXQ2KmmVtQ5CvMRG4cQPLloBMs-tAtxmX-MEukf71xcGJQ?e=WPJf0u
+
+[Slides](https://enseafr-my.sharepoint.com/:p:/g/personal/tharsan_senthivel_ensea_fr/EXQ2KmmVtQ5CvMRG4cQPLloBMs-tAtxmX-MEukf71xcGJQ?e=WPJf0u)
 
 ### TP 2020 2021
 
