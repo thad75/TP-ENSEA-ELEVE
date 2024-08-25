@@ -9,7 +9,7 @@ TP ENSEA Deep Learning
 
 This repository contains each AI Labs given to ENSEA Engineering Students following the Deep Learning Course.
 
-### Link will be given upon request after consultation of the Repo Team
+### Link will be given upon request after consultation of the repository Team 
 
 ## Table of Contents
 
