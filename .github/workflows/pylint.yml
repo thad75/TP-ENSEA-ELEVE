@@ -17,15 +17,17 @@ jobs:
         python-version: ${{ matrix.python-version }}
 
     - name: Install dependencies
+      shell: cmd
       run: |
         python -m pip install --upgrade pip
         pip install pylint nbconvert nbstripout
 
     - name: Clean notebooks using nbstripout
+      shell: cmd
       run: |
-        # Clean notebooks in the subfolder (replace 'notebooks' with your subfolder name)
-        find notebooks -name "*.ipynb" -exec nbstripout {} +
+        for /r notebooks %%f in (*.ipynb) do nbstripout "%%f"
 
     - name: Analysing the code with pylint
+      shell: cmd
       run: |
         pylint notebooks
