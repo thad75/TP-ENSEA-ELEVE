@@ -29,4 +29,4 @@ jobs:
 
     - name: Run Pylint on Notebooks
       shell: cmd
-      run: nbqa pylint **/*.ipynb
+      run: for /r %%F in (*.ipynb) do nbqa pylint "%%F"
