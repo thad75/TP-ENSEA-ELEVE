@@ -1,7 +1,7 @@
 name: Pylint and Notebook Cleaning
 
 on: [push]
-
+ 
 jobs:
   build:
     runs-on: self-hosted
