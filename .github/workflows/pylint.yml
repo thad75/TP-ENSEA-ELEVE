@@ -20,14 +20,13 @@ jobs:
       shell: cmd
       run: |
         python -m pip install --upgrade pip
-        pip install pylint nbconvert nbstripout
+        pip install pylint nbconvert nbstripout nbqa
 
-    - name: Clean notebooks using nbstripout
+    - name: Clean Jupyter Notebooks (Windows)
       shell: cmd
-      run: |
-        for /r notebooks %%f in (*.ipynb) do nbstripout "%%f"
+      run: for /r %%F in (*.ipynb) do nbstripout "%%F"
 
-    - name: Analysing the code with pylint
+
+    - name: Run Pylint on Notebooks
       shell: cmd
-      run: |
-        pylint notebooks
+      run: nbqa pylint **/*.ipynb
