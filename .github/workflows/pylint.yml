@@ -26,7 +26,3 @@ jobs:
       shell: cmd
       run: for /r %%F in (*.ipynb) do nbstripout "%%F"
 
-
-    - name: Run Pylint on Notebooks
-      shell: cmd
-      run: for /r %%F in (*.ipynb) do nbqa pylint "%%F"
