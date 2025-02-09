@@ -1,7 +1,7 @@
 
 # 🚀 Deep Learning Labs for Engineering Students
 
-This repository is a comprehensive collection of hands-on labs and projects I and few PhD fellows developed during our PhD time to support ENSEA Engineering students in their Deep Learning course. With the initial class materials falling short of providing practical, application-focused learning, I stepped in to create these resources to ensure students could gain the skills and knowledge essential for success in AI and Deep Learning. Whether you're a beginner or an advanced learner, these labs will help you build a strong foundation and confidently tackle real-world challenges.
+This repository is a comprehensive collection of hands-on labs and projects I and few PhD fellows () developed during our PhD time to support ENSEA Engineering students in their Deep Learning course. With the initial class materials falling short of providing practical, application-focused learning, I stepped in to create these resources to ensure students could gain the skills and knowledge essential for success in AI and Deep Learning. Whether you're a beginner or an advanced learner, these labs will help you build a strong foundation and confidently tackle real-world challenges.
 
 ---
 
@@ -57,12 +57,16 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## 🔗 Let's Connect!
 
 If you found this repository helpful, let's connect on [LinkedIn](https://www.linkedin.com/in/tharsansenthivel/)! I'd love to hear your feedback, collaborate on projects, or discuss opportunities in AI and Deep Learning.
-
+You can also connect with the folks that helped me writing these : Loïc, Carbonh14, Ishak96, Towzeur
 ---
 
 ## 🙏 Acknowledgments
 
-
+Co-Writer: 
+- Loïc [LinkedIn](https://www.linkedin.com/in/lo%C3%AFc-jezequel-039a95139/)
+- Carbonh14 [LinkedIn](https://www.linkedin.com/in/caroline-bonhomme/)
+- Ishak96  [LinkedIn](https://www.linkedin.com/in/ishak-ayad/)
+- Towzeur [LinkedIn](https://www.linkedin.com/in/nicolas-larue-1750a6159/)
 
 ---
 
