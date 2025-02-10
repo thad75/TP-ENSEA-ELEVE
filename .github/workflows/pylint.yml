@@ -1,7 +1,7 @@
 name: Pylint and Notebook Cleaning
 
 on: [push]
- 
+
 jobs:
   build:
     runs-on: self-hosted
@@ -24,5 +24,9 @@ jobs:
 
     - name: Clean Jupyter Notebooks (Windows)
       shell: cmd
-      run: for /r %%F in (*.ipynb) do nbstripout "%%F"
+      run: |
+        for /r %%F in (*.ipynb) do nbstripout "%%F"
+        git add *.ipynb
+        git commit -m "Clean notebooks" || echo "No changes to commit"
+        git push
 
