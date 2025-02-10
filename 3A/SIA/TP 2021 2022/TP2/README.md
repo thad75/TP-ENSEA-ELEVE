@@ -1,28 +1,58 @@
-## TP2
+# 🚀 TP2: Generative Models with PyTorch Lightning  
 
-TP2 is an introduction to Generative Models using Pytorch Lightning
+This lab introduces **Generative Models** using **PyTorch Lightning**, guiding students through **Classification, AutoEncoders, and Image Colorization**. The goal is to build a solid understanding of **Deep Learning architectures** while gaining hands-on experience with state-of-the-art techniques.  
 
-The labs is divided into three parts. You will create and train a model that performs Classification, Creation and Colorization using PyTorch Lightning :
+---
 
+## 🌟 Key Features  
 
-The objective :
-* Learn to use Lightning
-* Understand AutoEncoders
-* Understand GANs
-* Cry because of your model.
+- **Hands-On Learning**: Implement **Classification, AutoEncoders, and GANs** step by step.  
+- **PyTorch Lightning**: Simplifies training loops and model management.  
+- **Structured Approach**: Three progressive tasks, from supervised learning to generative modeling.  
 
+---
 
-## TP0 : Introduction to Pytorch Lightning (Part 1)
+## 📂 Lab Structure  
 
-In this lab, you will be asked to train a Deep Learning model that performs Classification on MNIST using Lightning.
+### **🔹 TP0: Introduction to PyTorch Lightning**  
+Train a **Deep Learning model** for **image classification on MNIST** using **PyTorch Lightning**.  
 
-## TP1 : AutoEncoder (Part 2)
+### **🔹 TP1: AutoEncoders**  
+Implement and train an **AutoEncoder** for image reconstruction, learning **latent representations**.  
 
-In this lab, you will be asked to train an AutoEncoder model
+### **🔹 TP2: Image Colorization with GANs**  
+Develop a **Conditional GAN (cGAN)** that learns to **colorize grayscale images**, exploring **Generative Adversarial Networks**.  
 
-## TP2 : Image Colorization
+---
 
-In this lab, you will be asked to train a cGAN that performs image colorization
+## 🛠️ How to Use  
 
+1. **Open in Google Colab**: Click the "Open in Colab" button in each notebook.  
+2. **Enable GPU**: In Colab, go to `Runtime` > `Change runtime type` > `Hardware accelerator` > Select **GPU**.  
+3. **Save Your Work**: Copy the notebook to your Google Drive before making changes.  
 
+---
 
+## 🚀 Why This Lab?  
+
+- **Understand Generative Models**: Learn how models like **AutoEncoders** and **GANs** generate new data.  
+- **Hands-On Deep Learning**: Apply **PyTorch Lightning** for efficient training.  
+- **Bridge Theory and Practice**: Move from **Classification** to **Image Generation** step by step.  
+
+---
+
+## 📊 Technologies Used  
+
+- **Python**: Core programming language for AI & ML.  
+- **PyTorch Lightning**: Framework for streamlined Deep Learning model training.  
+- **Google Colab**: Cloud-based environment with GPU support.  
+
+---
+
+## 📜 License  
+
+This project is **MIT Licensed**—feel free to use, modify, and share! Please credit the repository when redistributing or referencing the work.  
+
+---
+
+Happy coding! 🚀

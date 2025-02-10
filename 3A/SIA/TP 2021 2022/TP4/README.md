@@ -1,58 +1,61 @@
-## TP4 : Welcome to the Real World
+# 🚀 TP4: Welcome to the Real World  
 
-TP4 is the final lab as a Deep Learning Student. 
-This lab is an interview style question. You will be given a Dataset and a Task to perform. You will be asked to give a solution for the given problem.
-You must only use Deep Models (and no ML technics) as main algorithms. 
+TP4 is the **final Deep Learning lab**, designed as an **interview-style challenge** where students tackle a real-world problem using **Deep Learning models only**—no traditional ML techniques allowed. This is your chance to **think like a DL Engineer**, explore solutions independently, and justify every decision you make.  
 
-Don't forget to save a copy of your Notebook in your personnal Drive
+---
 
+## 🌟 Key Features  
 
+- **Real-World Scenarios**: Work on a **practical, industry-relevant** problem.  
+- **Independent Problem-Solving**: No starter code—define your own **approach, architecture, and dataset handling**.  
+- **Deep Learning Only**: Use **PyTorch (Lightning included)** or **TensorFlow (JAX included)**.  
 
-**⚠️⚠️Multiple subjects are available but only one will be assigned to you⚠️⚠️**
+---
 
-**You are absolutely free of all your doings. No code will be given to you.**
+## 📂 Lab Structure  
 
-You will be free to use either
-* PyTorch by Facebook (Even Lightning)
-* Tensorflow by Google (Even JAX)
+⚠️ **You will be assigned one of the following tasks at the start of the session. No pre-selection allowed.**  
 
-The objective :
-* Learn to work as a DL Engineer
-* Google things
-* Exploit your results
-* Check if you really understood something in this DL class/lab.
+### **🔹 Signature Verification**  
+Train a model to verify the authenticity of **handwritten signatures**.  
 
-You'll be given one Real Condition task. If you need some guiding:
-* Discuss with your team members
-* Google things and make sure you understand them
-* And finally ask me.
+### **🔹 Anomaly Detection**  
+Build a Deep Learning model to **detect anomalies** in the **MNIST dataset**.  
 
-## Signature Verification
+### **🔹 Google Map Calque View Reconstruction**  
+Develop a model that converts **satellite images** into **Google Maps-style visuals**.  
 
-In this lab, you will be asked to train a Deep Learning model to perform Signature Verification
+### **🔹 Brain Tumor Detection**  
+Train a model to **detect tumors in Brain MRI scans**.  
 
-## Anomaly Detection
+---
 
-In this lab, you will be asked to train a Deep Learning model to perform Anomaly Detection on the MNIST Dataset
+## 🛠️ How to Approach the Lab  
 
-## Recreate Google Map Calque view
+1. **Understand the Problem**: Analyze the dataset and define your **strategy**.  
+2. **Choose the Right Architecture**: Justify your model selection and **loss function**.  
+3. **Train & Evaluate**: Optimize your model and critically analyze your results.  
+4. **Document Your Process**: Explain your design choices and insights.  
 
-In this lab, you will be asked to train a Deep Learning model to recreate the Google Map images from a satellite view.
+💡 **Use Google and discuss with your peers—but make sure you understand what you're implementing.**  
 
-## Spot Tumours in Brain MRIs
+---
 
-In this lab, you will be asked to train a Deep Learning model to spot tumours from Brain MRIs.
+## 🚀 Evaluation Criteria  
 
+- **Understanding of the problem & dataset**  
+- **Justification of architecture & loss function**  
+- **Dataset design & preprocessing choices**  
+- **Results analysis & interpretation**  
 
+⚠️ **Unjustified results or design choices will be penalized.**  
+⚠️ **Do not start any work before the lab session—tasks will be assigned at the beginning.**  
 
-We will note you on the following things : 
-* Your understanding of the subject and the dataset.
-* The reasons you used a particular architecture.
-* How you design your loss and your Dataset.
-* The results you're getting and your analysis of them.
+---
 
-**⚠️⚠️ Any unjustified result or move will not be taken into consideration and penalized in your notation⚠️⚠️**
+## 📜 Final Notes  
 
-**⚠️⚠️Don't begin any notebook before your lab. We will assign you a lab at the beginning of the lab session. ⚠️⚠️**
+🔹 **Save a copy of your work** to your personal Google Drive.  
+🔹 **No predefined code will be provided—this is a free-form challenge.**  
 
-Good Luck :)
+Good luck! 🚀

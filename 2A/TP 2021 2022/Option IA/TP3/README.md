@@ -1,20 +1,17 @@
-# TP Recommendation System
+# 🎯 TP: Recommendation Systems  
 
-## Goal of this Lab
+## 🔍 Lab Objectives  
 
-* Understand the Recommendation Systems
-* Create two different models that performs the same task
+- Understand how **Recommendation Systems** work  
+- Implement **two different models** for the same task  
 
-This lab is divided into 3 parts
+This lab is structured into **three parts**:  
 
-## Matrix Factorization
+### 📌 Part 1: Matrix Factorization (MF)  
+Use **Matrix Factorization** to generate recommendations.  
 
-In this part, you will perform recommendation using MF
+### 📌 Part 2: NGCF (Neural Graph Collaborative Filtering)  
+Implement **NGCF** for recommendation tasks.  
 
-## NGCF
-
-In this part, you will perform recommendation using NGCF
-
-## Do it Again
-
-In this part, you will perform recommendation using your imagination
+### 📌 Part 3: Creative Approach  
+Design your **own recommendation method**—be creative! 🚀  

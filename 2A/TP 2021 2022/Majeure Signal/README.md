@@ -1,26 +1,29 @@
-# TP Majeure Signal
+# 🧠 TP Majeure Signal – Deep Learning Lab  
 
-You will find in this repository the lab given to Majeure Signal Students. To open any lab, you will see a open in colab button in the notebook.
-The notebook will be opened into google colab. Don't forget to save the notebooks into your personnal Google Drive.
-The lab uses Pytorch. 
+This repository contains the lab materials for **Majeure Signal students**. Each lab notebook includes an **"Open in Colab"** button for easy access. Make sure to **save your work** to your personal Google Drive.  
 
+🚀 **Framework**: PyTorch  
 
+---
 
-## Table of contents
-* Image Compression Using AutoEncoders
+## 📌 Table of Contents  
+- **Image Compression Using AutoEncoders**  
 
-## TP : Image Compression using AutoEncoders: a deep learning task
+---
 
-The Goal of this lab is to introduce students to Deep Learning using AutoEncoders to performs image compression.
+## 🔍 TP: Image Compression with AutoEncoders  
 
-### Fork
+### 🎯 Goal  
+Introduce students to **Deep Learning** through **AutoEncoders** for **image compression**.  
 
-Don't hesitate to fork the full repository into your personnal Github and use commits to update your notebooks.
+### 🔗 Fork & Versioning  
+Feel free to **fork this repository** to your personal GitHub and use **commits** to track updates in your notebooks.  
 
-### To be sent for notation : 
+---
 
-You will need to return :
-* The lab notebook completely filled
-* Report of this lab
+## 📩 Submission Guidelines  
+✅ **To be submitted for grading**:  
+- **Completed lab notebook**  
+- **Lab report**  
 
-Good Luck
+Good luck! 🚀
