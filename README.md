@@ -50,7 +50,7 @@ A collection of foundational labs for 2nd-year students, introducing core concep
 
 ## 📜 License
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed. Just mention us the repository when distributed or used. Contributions are always welcome!
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed. Just mention us or the repository when distributed or used. Contributions are always welcome!
 
 ---
 
