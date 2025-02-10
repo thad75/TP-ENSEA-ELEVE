@@ -54,10 +54,11 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ---
 
-## 🔗 Let's Connect!
+## 🔗 Let's Connect
 
-If you found this repository helpful, let's connect on [LinkedIn](https://www.linkedin.com/in/tharsansenthivel/)! I'd love to hear your feedback, collaborate on projects, or discuss opportunities in AI and Deep Learning.
-You can also connect with the folks that helped me writing these : Loïc, Carbonh14, Ishak96, Towzeur
+If you found this repository helpful, let's connect on [LinkedIn](https://www.linkedin.com/in/tharsansenthivel/) ! I'd love to hear your feedback, collaborate on projects.
+You can also connect with the folks that helped me writing these: Loïc, Carbonh14, Ishak96, Towzeur
+
 ---
 
 ## 🙏 Acknowledgments
