@@ -1,7 +1,7 @@
 
 # 🚀 Deep Learning Labs for Engineering Students
 
-This repository is a comprehensive collection of hands-on labs and projects I and few PhD fellows () developed during our PhD time to support ENSEA Engineering students in their Deep Learning course. With the initial class materials falling short of providing practical, application-focused learning, I stepped in to create these resources to ensure students could gain the skills and knowledge essential for success in AI and Deep Learning. Whether you're a beginner or an advanced learner, these labs will help you build a strong foundation and confidently tackle real-world challenges.
+This repository is a comprehensive collection of hands-on labs and projects I and few PhD fellows developed during our PhD time to support ENSEA Engineering students in their Deep Learning course. With the initial class materials falling short of providing practical, application-focused learning, I stepped in to create these resources to ensure students could gain the skills and knowledge essential for success in AI and Deep Learning. Whether you're a beginner or an advanced learner, these labs will help you build a strong foundation and confidently tackle real-world challenges.
 
 ---
 
